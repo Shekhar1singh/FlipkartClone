@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.categories{
+    background-color: #F1F2F4;
+    height: 120px;
+} 
+
+.categories_main{
+ width: 100%;
+ padding: 3px 20px 3px 20px;
+
+}
+
+.categories_content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:white;
+    padding-bottom: 13px;
+   
+    
+}
+
+.map_style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+

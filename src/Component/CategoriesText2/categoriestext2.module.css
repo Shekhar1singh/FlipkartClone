@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.CategoriesText_Style span{
+    color: #2F2F2F;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.CategoriesText_Style i{
+    color: #C9C9C9;
+    font-size: 9px;
+    padding: 7.5px;
+    
+
+}
+
+.CategoriesText:hover .CategoriesText_Style span{
+ color: #518FF3;
+}
+
+.CategoriesText:hover .CategoriesText_Style i{
+    color: #518FF3;
+    transform: rotate(180deg);
+   }

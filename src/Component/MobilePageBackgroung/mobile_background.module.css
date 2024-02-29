@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.MobileBackground{
+    background-color: #F1F3F6;
+}
+
+.MobileBackground_upper_text{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 0px 8px 20px;
+
+}
+
+.firstImg{
+    width: 100%;
+    padding:0px 20px 8px 20px; ;
+}
+
+.firstImg img{
+height: 330px;
+width: 100%;
+}
+
+
+.SecondImg{
+    width: 100%;
+    padding:0px 20px 8px 20px; 
+    margin-top: -11px;
+}
+
+.SecondImg img{
+height: 150px;
+width: 100%;
+}
+
+.ThirdImg{
+    width: 100%;
+    padding:0px 20px 8px 20px; 
+    margin-top: -11px;
+}
+
+.ThirdImg img{
+height: 280px;
+width: 100%;
+} 
+
+.ForthImg{
+    width: 100%;
+    padding:0px 20px 8px 20px; 
+    margin-top: -12px;
+}
+
+.ForthImg img{
+height: 280px;
+width: 100%;
+} 
+
+.FifthImg{
+    width: 100%;
+    padding:0px 20px 8px 20px; 
+    margin-top: -11px;
+}
+
+.FifthImg img{
+height: 171px;
+width: 100%;
+} 
+
+.gridStyle{
+    margin-top: -18px;
+}
+
+.SixththImg{
+    width: 100%;
+    padding:0px 20px 8px 20px; 
+    margin-top: -11px;
+}
+
+.SixththImg img{
+height: 171px;
+width: 100%;
+} 
+
+.mobile_under_1000_main{
+    
+    width: 97%;
+    padding: 0px 20px 8px 20px;
+    margin-top: -11px;
+  background-color: white;
+  margin-left: 20px;
+ 
+
+}
+
+.text_button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 23px 8px 23px;
+}
+
+.line{
+    background-color: #E5E5E5;
+    height: 1px;
+    width:100%;
+    margin-bottom: 15px;
+}
+
+.num_star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #388E3C;
+    padding: 5px;
+    gap: 0 5px;
+    border-radius: 7px;
+    margin-top: 5px;
+}
+
+.text_button div {
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 500;
+}
+
+.text_button button {
+    background: #2874f0;
+    color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    border: none;
+    padding: 10px;
+}
+
+.imge_p img{
+    height: 150px;
+    width: 130px;
+    margin-left: 20px;
+}
+
+.rating_p p {
+    padding-bottom: 5px;
+       font-size: 14px;
+    font-weight: 400;
+    word-spacing: 2px;
+}
+.ratings{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 5px;
+}
+
+.price_discount_offer_main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0 10px;
+}
+
+.rating_count p{
+    color: #A68787;
+    font-size: 14px;
+}
+
+.card_details{
+    width: 200px;
+   
+}
+
+.mobile_card{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 20px 0px 8px 18px;
+    width: 250px;
+}
+
+.num_star_p{
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    
+}
+.price p{
+    font-size: 15px;
+    color: black;
+}
+
+.discount p{
+    color: #A68787;
+    font-size: 14px;
+    text-decoration: line-through;
+}
+
+.offer p{
+    color: #388E3C;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.price_discount_offer{
+    margin-top: 5px;
+}
+
+.mobile_card{
+position: relative;
+}
+
+.icon{
+    top: 15px;
+    color: #c2c2c2;
+    position: absolute;
+    left: 187px;
+}
+.map{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blank{
+    margin-top: 30px;
+}

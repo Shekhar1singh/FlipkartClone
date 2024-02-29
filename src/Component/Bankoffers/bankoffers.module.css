@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+   
+.bankoffers{
+    background-color:#F1F2F4 ;
+}
+
+.bankoffers_main{
+    width: 100%;
+    padding: 3px 20px 3px 20px;
+    height: 130px;
+   }
+
+.bankoffer_img{
+    height: 115px;
+    width: 100%;
+}
+
+

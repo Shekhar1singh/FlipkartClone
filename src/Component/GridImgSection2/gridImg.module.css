@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+   
+.GridIngSection{
+    background-color:#F1F2F4 ;
+    height: 248px;
+   }
+   
+.GridIngSection_main_1{
+
+    width: 100%;
+    padding: 3px 20px 3px 20px;
+    
+}
+
+   .GridIngSection_main{
+    
+       height: 237px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 4px;
+    padding: 3px 2px 3px 2px;
+    background-color: white;
+   }
+
+   .GridIngSection_main_img_con img{
+    height: 100%;
+    width: 100%;
+    
+   }
+
+   .GridIngSection_main_img_con{
+    width: 33%;
+    background-color:white ;
+    padding: 0px 1px;
+ 
+   }

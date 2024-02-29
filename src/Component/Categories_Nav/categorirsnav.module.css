@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.CategoriesNav{
+
+    margin-top: 8px;
+    padding: 0px 10px 5px 10px;
+    border-bottom: 1px solid #F3F3F3;
+
+}
+
+.CategoriesNav_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}

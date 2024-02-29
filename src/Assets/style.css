@@ -1,0 +1,168 @@
+.banner .react-multiple-carousel__arrow {
+    height: 80px !important;
+    border-radius: 2px;
+    background-color: white;
+    cursor: unset;
+}
+
+.banner .react-multiple-carousel__arrow--left{
+    left: -2px !important;
+
+}
+
+.banner .react-multiple-carousel__arrow--right {
+ right: 0px !important;
+
+}
+
+.banner .react-multiple-carousel__arrow::before{
+    font-size: 16px;
+    color: black;
+}
+
+.banner .react-multiple-carousel__arrow:hover{
+    background-color: white;
+   
+}
+
+.banner .react-multi-carousel-dot--active button {
+    background:white !important;
+}
+
+.banner .react-multi-carousel-dot button{
+    background-color: gray;
+}
+
+.banner .react-multi-carousel-list{
+height: 200px;
+}    
+
+.banner {
+    height: 200px;
+}
+
+.bestmobile_carousel .react-multiple-carousel__arrow {
+    height: 80px !important;
+    border-radius: 2px;
+    background-color: white;
+    cursor: unset;
+}
+
+.bestmobile_carousel .react-multiple-carousel__arrow--left{
+    left: -2px !important;
+
+}
+
+.bestmobile_carousel{
+   height:100%
+    }   
+
+.bestmobile_carousel .react-multiple-carousel__arrow--right {
+ right: 0px !important;
+
+}
+
+.bestmobile_carousel .react-multiple-carousel__arrow::before{
+    font-size: 16px;
+    color: black;
+}
+
+.bestmobile_carousel .react-multiple-carousel__arrow:hover{
+    background-color: white;
+   
+}
+
+.bestmobile_carousel .react-multi-carousel-dot--active button {
+    background:white !important;
+}
+
+.bestmobile_carousel .react-multi-carousel-dot button{
+    background-color: gray;
+}
+
+.bestmobile_carousel .react-multi-carousel-list{
+height: 200px;
+}  
+
+
+
+.Topdeals_carousel .react-multiple-carousel__arrow {
+    height: 80px !important;
+    border-radius: 2px;
+    background-color: white;
+    cursor: unset;
+}
+
+.Topdeals_carousel .react-multiple-carousel__arrow--left{
+    left: -2px !important;
+
+}
+
+.Topdeals_carousel .react-multiple-carousel__arrow--right {
+ right: 0px !important;
+
+}
+
+.Topdeals_carousel .react-multiple-carousel__arrow::before{
+    font-size: 16px;
+    color: black;
+}
+
+.Topdeals_carousel .react-multiple-carousel__arrow:hover{
+    background-color: white;
+   
+}
+
+.Topdeals_carousel .react-multi-carousel-dot--active button {
+    background:white !important;
+}
+
+.Topdeals_carousel .react-multi-carousel-dot button{
+    background-color: gray;
+}
+
+.Topdeals_carousel .react-multi-carousel-list{
+height: 200px;
+}    
+
+
+
+
+.Featurebrand_carousel .react-multiple-carousel__arrow {
+    height: 80px !important;
+    border-radius: 2px;
+    background-color: white;
+    cursor: unset;
+}
+
+.Featurebrand_carousel .react-multiple-carousel__arrow--left{
+    left: -2px !important;
+
+}
+
+.Featurebrand_carousel .react-multiple-carousel__arrow--right {
+ right: 0px !important;
+
+}
+
+.Featurebrand_carousel .react-multiple-carousel__arrow::before{
+    font-size: 16px;
+    color: black;
+}
+
+.Featurebrand_carousel .react-multiple-carousel__arrow:hover{
+    background-color: white;
+   
+}
+
+.Featurebrand_carousel .react-multi-carousel-dot--active button {
+    background:white !important;
+}
+
+.Featurebrand_carousel .react-multi-carousel-dot button{
+    background-color: gray;
+}
+
+.Featurebrand_carousel .react-multi-carousel-list{
+height: 200px;
+} 
